@@ -56,9 +56,6 @@ public class MainActivity extends AppCompatActivity {
     String[]  anthem_south_america = {"Paraguayan National Anthem", "Land of the Free", "Oh gloria inmarcesible!", "Hino Nacional Brasileiro", "In Plenty and In Time of Need", "Green Land of Guyana", "The Star-Spangled Banner"};
     String[]  anthem_north_america = {"Himno Nacional del Perú", "Mexicanos, Al Grito de Guerra", "O Canada", "¡Guatemala Feliz!", "El Himno de Bayamo", "Tu bandera es un lampo de cielo", "Himno Nacional de Costa Rica"};
     String[]  anthem_antartica = {"Himno Nacional Argentino", "Advance Australia Fair", "Canción Nacional", "La Marseillaise", "Ja, vi elsker dette landet", "God Defend New Zealand", "God Save the King"};
-
-
-
     String[][] mainlandsCountries = {europe,asia,africa,australia,south_america,north_america,antartica};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
